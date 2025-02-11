@@ -36,4 +36,8 @@ Muzer is a real-time music streaming platform where users can create virtual roo
 
 ![Live Room](https://github.com/ShubhamS2003/Muzer/blob/main/assets/Song_queue.png)
 
+#Update
+
+More work is in progress. Soon it can be run locally.
+
 
