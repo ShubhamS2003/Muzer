@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "User" ADD COLUMN     "imageUrl" TEXT NOT NULL DEFAULT '',
+ADD COLUMN     "name" TEXT NOT NULL DEFAULT 'Muzi';
